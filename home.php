@@ -22,7 +22,7 @@
 	<img src="images/arrow-45-degree-left-up.png" style="margin-right: 5px" />
 	<span class="label" style="float: right;">TIP:&nbsp;
 	<span style="float: right; text-align: center;">Click 
-	<span style="color: blue;font-style: italic;">Hint and Videos</span><br/>on each page</span></span>
+	<span style="color: #804639;font-style: italic;">Hint and Videos</span><br/>on each page</span></span>
 </span>
 </div>
 
